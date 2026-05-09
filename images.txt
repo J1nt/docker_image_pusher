@@ -2,4 +2,4 @@ docker.elastic.co/elasticsearch/elasticsearch:7.17.29
 kibana:7.17.29
 clickhouse/clickhouse-server:22.8.15
 zookeeper:3.7.2
-bitnami/kafka:3.5
+bitnamilegacy/kafka:3.5.1

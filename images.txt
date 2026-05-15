@@ -3,3 +3,4 @@ kibana:7.17.29
 clickhouse/clickhouse-server:22.8.15
 zookeeper:3.7.2
 bitnamilegacy/kafka:3.5.1
+redis:6.2.14

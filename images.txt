@@ -5,3 +5,4 @@ zookeeper:3.7.2
 bitnamilegacy/kafka:3.5.1
 redis:6.2.14
 nginx/nginx-prometheus-exporter:1.1.0
+gitlab/gitlab-ce:16.11.5-ce.0

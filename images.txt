@@ -7,3 +7,4 @@ redis:6.2.14
 nginx/nginx-prometheus-exporter:1.1.0
 gitlab/gitlab-ce:16.11.5-ce.0
 jenkins/jenkins:2.479.3-lts-jdk17
+maven:3.9.6-openjdk-17
